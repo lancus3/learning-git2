@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/lancus3/learning-git2#readme",
   "devDependencies": {
-    "browser-sync": "^2.24.1"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.24.1",
+    "nu-html-checker": "^0.1.0"
   }
 }
