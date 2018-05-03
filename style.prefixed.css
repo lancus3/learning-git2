@@ -16,6 +16,7 @@ body {
 
 .video {
     text-align: center;
+    display:-ms-flexbox;
     display:flex;
 }
 
